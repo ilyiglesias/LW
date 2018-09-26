@@ -1,4 +1,4 @@
-###################### Length-Weight Data from 2016 Cruise ########################################################################
+###################### Length-Weight Data from 2016 and 2017 RREA Cruise ########################################################################
 # Project by: Ily Iglesias
 # Date started: 2/26/18
 # Project description: Length-weight data relationships. For this project, I would like to plot the length-weight relationships of organisms
