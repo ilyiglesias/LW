@@ -104,3 +104,4 @@ total_per_spp <- lw %>%
   group_by(COMMON_NAME) %>% # i grouped by species so each row is a species
   summarise(total_no_measure= n()) # this took the total number of obs for a given species and output a simple table
 write.csv(total_per_spp, "total_per_spp.csv")
+
