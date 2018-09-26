@@ -9,9 +9,6 @@
 # species_codes: this is the page from the Access cruise dataset, the table "species_codes"
 # lw_data: this is the inputted length weight data I entered from paper datasheets-- if this is updated in the future, this would be the file to add new records of weight and length to
 
-# Location: created in ilysa.iglesias drive under ROCKFISH//Projects/JRREACruise/LWData and all files were copied and saved to public: ilyiglesias
-# update 3/2/18: John asked if I could tally the total number of measurements per species, so I calculated the total # of measurements per spp (df: total_per_spp) and added these values to the plot length_range
-# update 5/31/18: I updated the input file so that it now includes measurements for length and weight taken from this year's cruise (RL 1802)- I also renamed this file (from 2016_lw) to lw_data 
 # update 09/26/18: I ensured that all of the code was running smoothly and moved copy of files to public drive- also backed up to github
  
 ####################################################################################################################################
